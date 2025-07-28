@@ -1,4 +1,3 @@
-
 # 📦 NumPy Project Template - `awesome-numpy-project`
 
 A simple and efficient Python project demonstrating the power of [NumPy](https://numpy.org/) for numerical computing. This project includes examples of array manipulations, statistical operations, broadcasting, and matrix computations.
@@ -41,8 +40,8 @@ This project showcases how to harness the full power of NumPy for data operation
 ### 🔧 Installation
 
 ```bash
-git clone https://github.com/Aditya9926/Numpy-Projects/awesome-numpy-project.git
-cd awesome-numpy-project
+
+git clone https://github.com/Aditya9926/Numpy-Projects.git
 pip install -r requirements.txt
 ```
 
